@@ -17,3 +17,15 @@ https://docs.python.org/2.7/library/unittest.html
 https://blog.csdn.net/Mario_faker/article/details/79618235
 ```
 
+
+
+# 问题记录
+记录logger日志<br>
+```
+https://stackoverflow.com/questions/7472863/pydev-unittesting-how-to-capture-text-logged-to-a-logging-logger-in-captured-o
+```
+
+使用 @property
+```
+http://funhacks.net/explore-python/Class/property.html
+```

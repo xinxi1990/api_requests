@@ -11,7 +11,7 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 
-class Demo3(unittest.TestCase):
+class Demo4(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
