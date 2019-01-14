@@ -1,4 +1,5 @@
 [
-  "demo10.py::Demo5::test_book_1", 
-  "demo10.py::Demo5::test_book_2"
+  "demo12.py::Demo12::test_book_1_1_3210", 
+  "demo12.py::Demo12::test_book_1_2_3220", 
+  "demo12.py::Demo12::test_book_2_1_list"
 ]

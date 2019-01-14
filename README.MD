@@ -17,7 +17,10 @@ https://docs.python.org/2.7/library/unittest.html
 https://blog.csdn.net/Mario_faker/article/details/79618235
 ```
 
-
+# ddt参数化
+```
+https://ddt.readthedocs.io/en/latest/example.html
+```
 
 # 问题记录
 记录logger日志<br>
