@@ -1,0 +1,60 @@
+{
+  "uid" : "82b4684abe4e6059",
+  "name" : "test_demo_1.Demo3.test_book_1",
+  "fullName" : "demosuite.test_demo_1.Demo3.test_book_1",
+  "historyId" : "550701559c40413c7f4efcdaa7a25234",
+  "time" : {
+    "start" : 1547477061311,
+    "stop" : 1547477061607,
+    "duration" : 296
+  },
+  "description" : "\n        获取电子书列表页数据,使用post方法\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    获取电子书列表页数据,使用post方法\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "xinxideMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "67344-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "demosuite"
+  }, {
+    "name" : "testClass",
+    "value" : "demosuite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_demo_1.Demo3.test_book_1"
+  }, {
+    "name" : "package",
+    "value" : "demosuite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82b4684abe4e6059.json",
+  "parameterValues" : [ ]
+}

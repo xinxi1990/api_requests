@@ -15,6 +15,8 @@ sys.setdefaultencoding("utf-8")
 
 test_book_1_result = False
 
+current_path = os.path.abspath(os.path.dirname(__file__))
+
 @ddt
 class Demo12(unittest.TestCase):
 
@@ -83,8 +85,7 @@ class Demo12(unittest.TestCase):
         log.info("****test_book_1测试成功!******")
 
 
-    @file_data('demoddt.json')
-    @unpack
+    @file_data(current_path + '/data/demoddt.json')
     def test_book_2(self,value):
         """
         设置多个bid和udid两个参数
@@ -103,6 +104,25 @@ class Demo12(unittest.TestCase):
         self.assertEqual(r_json['errCode'], 0, "断言errCode失败...")
         log.info("****test_book_1测试成功!******")
 
+
+    @file_data(current_path + '/data/demoddt.yaml')
+    def test_book_2(self,value):
+        """
+        设置多个bid和udid两个参数
+        使用unpack解包上面两个参数
+        :return:
+        """
+        print "****{}".format(value)
+        bid = value[0]
+        udid = value[1]
+        self.payload = '{"bid":' + str(bid) + ',"userInfo":{"uid":  ' + str(udid) + '}}'
+        r = requests.post(self.url, data=self.payload, headers=self.headers)
+        r_json = r.json()
+        # 获取返回的json数据
+        # print "请求接口地址:" + r.url
+        log.info("*****test_book_1请求接口地址******:" + r.url)
+        self.assertEqual(r_json['errCode'], 0, "断言errCode失败...")
+        log.info("****test_book_1测试成功!******")
 
 
 if __name__ == '__main__':

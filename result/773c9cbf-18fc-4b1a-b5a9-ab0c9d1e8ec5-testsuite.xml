@@ -1,0 +1,54 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1547475928893" stop="1547475929450">
+  <description>
+@Author  : xinxi
+@Time    : 2018/12/5 18:34
+@describe: 使用HTMLTestRunner组织报告
+</description>
+  <name>demo14</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1547475928893" status="passed" stop="1547475929180">
+      <description>
+        获取电子书列表页数据,使用post方法
+        :return:
+        </description>
+      <name>Demo14.test_book_1</name>
+      <attachments>
+        <attachment source="fe2ad9cd-6a05-453b-8fa6-c18710aef025-attachment.txt" title="Captured log setup" type="text/plain"/>
+        <attachment source="aadfa066-7f8b-4cd8-946f-d2303dcff7cf-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="33294fd2-ee1c-47e5-90a3-6f21871d7190-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="电子书-用例1"/>
+        <label name="feature" value="Demo14"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="63826-MainThread"/>
+        <label name="host" value="xinxideMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1547475929189" status="passed" stop="1547475929450">
+      <description>
+        获取电子书列表页数据,使用post方法
+        :return:
+        </description>
+      <name>Demo14.test_book_2</name>
+      <attachments>
+        <attachment source="5a438819-9add-41a1-9381-ca725aa1256d-attachment.txt" title="Captured stdout call" type="text/plain"/>
+        <attachment source="83a22659-4fcc-4ceb-8bcf-f8b768c85bff-attachment.txt" title="Captured log call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="电子书-用例2"/>
+        <label name="feature" value="Demo14"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="63826-MainThread"/>
+        <label name="host" value="xinxideMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

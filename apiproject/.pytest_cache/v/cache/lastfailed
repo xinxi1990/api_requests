@@ -1,0 +1,4 @@
+{
+  "test_department.py::Departmen::test_del_department": true, 
+  "test_news.py::News::test_news": true
+}

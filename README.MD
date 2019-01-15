@@ -22,6 +22,11 @@ https://blog.csdn.net/Mario_faker/article/details/79618235
 https://ddt.readthedocs.io/en/latest/example.html
 ```
 
+# logzero日志
+```
+https://logzero.readthedocs.io/en/latest/
+```
+
 # 问题记录
 记录logger日志<br>
 ```

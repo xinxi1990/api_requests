@@ -1,5 +1,6 @@
 [
-  "demo12.py::Demo12::test_book_1_1_3210", 
-  "demo12.py::Demo12::test_book_1_2_3220", 
-  "demo12.py::Demo12::test_book_2_1_list"
+  "demosuite/test_demo_1.py::Demo3::test_book_1", 
+  "demosuite/test_demo_1.py::Demo3::test_book_2", 
+  "demosuite/test_demo_2.py::Demo3::test_book_1", 
+  "demosuite/test_demo_2.py::Demo3::test_book_2"
 ]

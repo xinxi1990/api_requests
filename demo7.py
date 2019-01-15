@@ -23,8 +23,8 @@ class Demo7():
         :return:
         '''
         suite = unittest.TestSuite()
-        suite.addTest(Demo5('test_book_1'))
-        suite.addTest(Demo6('test_book_2'))
+        suite.addTest(Demo5('test_del'))
+        suite.addTest(Demo5('test_creat'))
         return suite
 
 
@@ -56,5 +56,5 @@ class Demo7():
 
 
 if __name__ == '__main__':
-    test_suite = Demo7().suite_class_new()
+    test_suite = Demo7().suite_method()
     unittest.TextTestRunner(verbosity=2).run(test_suite)

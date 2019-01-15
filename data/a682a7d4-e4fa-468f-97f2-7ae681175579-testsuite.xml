@@ -1,0 +1,70 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1547477060434" stop="1547477061607">
+  <name>demosuite</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1547477060434" status="passed" stop="1547477060770">
+      <description>
+        获取电子书列表页数据,使用post方法
+        :return:
+        </description>
+      <name>test_demo_2.Demo3.test_book_1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="67344-MainThread"/>
+        <label name="host" value="xinxideMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1547477060777" status="passed" stop="1547477061042">
+      <description>
+        获取电子书列表页数据,使用post方法
+        :return:
+        </description>
+      <name>test_demo_2.Demo3.test_book_2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="67344-MainThread"/>
+        <label name="host" value="xinxideMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1547477061046" status="passed" stop="1547477061309">
+      <description>
+        获取电子书列表页数据,使用post方法
+        :return:
+        </description>
+      <name>test_demo_1.Demo3.test_book_2</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="67344-MainThread"/>
+        <label name="host" value="xinxideMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1547477061311" status="passed" stop="1547477061607">
+      <description>
+        获取电子书列表页数据,使用post方法
+        :return:
+        </description>
+      <name>test_demo_1.Demo3.test_book_1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="67344-MainThread"/>
+        <label name="host" value="xinxideMacBook-Pro.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

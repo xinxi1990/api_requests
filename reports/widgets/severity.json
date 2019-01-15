@@ -1,0 +1,41 @@
+[ {
+  "uid" : "f3733914a984fdcd",
+  "name" : "test_demo_1.Demo3.test_book_2",
+  "time" : {
+    "start" : 1547477061046,
+    "stop" : 1547477061309,
+    "duration" : 263
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cc216222d9bbf10",
+  "name" : "test_demo_2.Demo3.test_book_2",
+  "time" : {
+    "start" : 1547477060777,
+    "stop" : 1547477061042,
+    "duration" : 265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e69c9be3b6481639",
+  "name" : "test_demo_2.Demo3.test_book_1",
+  "time" : {
+    "start" : 1547477060434,
+    "stop" : 1547477060770,
+    "duration" : 336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82b4684abe4e6059",
+  "name" : "test_demo_1.Demo3.test_book_1",
+  "time" : {
+    "start" : 1547477061311,
+    "stop" : 1547477061607,
+    "duration" : 296
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

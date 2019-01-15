@@ -127,3 +127,1231 @@ Mon, 14 Jan 2019 20:15:18 demo12.py[line:102] INFO *****test_book_1请求接口�
 Mon, 14 Jan 2019 20:15:18 demo12.py[line:104] INFO ****test_book_1测试成功!******
 Mon, 14 Jan 2019 20:15:18 demo12.py[line:102] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
 Mon, 14 Jan 2019 20:15:18 demo12.py[line:104] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 20:19:25 demo12.py[line:101] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 20:19:25 demo12.py[line:103] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 20:19:25 demo12.py[line:101] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 20:19:25 demo12.py[line:103] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:40:05 demo12.py[line:123] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:40:05 demo12.py[line:125] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:40:06 demo12.py[line:123] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:40:06 demo12.py[line:125] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:47:05 demo13.py[line:123] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:47:05 demo13.py[line:125] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:47:05 demo13.py[line:123] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:47:05 demo13.py[line:125] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:47:48 demo13.py[line:123] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:47:48 demo13.py[line:125] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:47:48 demo13.py[line:123] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:47:48 demo13.py[line:125] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:49:30 demo13.py[line:136] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_49_30.html
+Mon, 14 Jan 2019 21:49:43 demo13.py[line:136] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_49_43.html
+Mon, 14 Jan 2019 21:50:17 demo13.py[line:138] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_50_17.html
+Mon, 14 Jan 2019 21:50:35 demo13.py[line:138] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_50_35.html
+Mon, 14 Jan 2019 21:50:35 demo13.py[line:124] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:50:35 demo13.py[line:126] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:50:35 demo13.py[line:124] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:50:35 demo13.py[line:126] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:51:12 demo13.py[line:135] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_51_12.html
+Mon, 14 Jan 2019 21:51:12 demo13.py[line:42] INFO *****test_book_1请求参数******:{"bid":3210,"userInfo":{"uid": "229461915"}}
+Mon, 14 Jan 2019 21:51:12 demo13.py[line:47] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:51:12 demo13.py[line:49] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:51:12 demo13.py[line:42] INFO *****test_book_1请求参数******:{"bid":3220,"userInfo":{"uid": "229461915"}}
+Mon, 14 Jan 2019 21:51:13 demo13.py[line:47] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:51:13 demo13.py[line:49] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:51:13 demo13.py[line:121] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:51:13 demo13.py[line:123] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:51:13 demo13.py[line:121] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:51:13 demo13.py[line:123] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:52:53 demo13.py[line:135] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_52_53.html
+Mon, 14 Jan 2019 21:52:53 demo13.py[line:42] INFO *****test_book_1请求参数******:{"bid":3210,"userInfo":{"uid": "229461915"}}
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:47] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:49] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:42] INFO *****test_book_1请求参数******:{"bid":3220,"userInfo":{"uid": "229461915"}}
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:47] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:49] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:121] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:123] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:121] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:52:54 demo13.py[line:123] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:53:36 demo13.py[line:135] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_53_36.html
+Mon, 14 Jan 2019 21:53:36 demo13.py[line:42] INFO *****test_book_1请求参数******:{"bid":3210,"userInfo":{"uid": "229461915"}}
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:47] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:49] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:42] INFO *****test_book_1请求参数******:{"bid":3220,"userInfo":{"uid": "229461915"}}
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:47] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:49] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:121] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:123] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:121] INFO *****test_book_1请求接口地址******:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:53:37 demo13.py[line:123] INFO ****test_book_1测试成功!******
+Mon, 14 Jan 2019 21:54:42 demo13.py[line:104] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_54_42.html
+Mon, 14 Jan 2019 21:55:10 demo13.py[line:104] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_55_10.html
+Mon, 14 Jan 2019 21:55:11 demo13.py[line:75] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:55:56 demo13.py[line:104] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_55_56.html
+Mon, 14 Jan 2019 21:55:57 demo13.py[line:75] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:56:25 demo13.py[line:104] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_56_25.html
+Mon, 14 Jan 2019 21:56:25 demo13.py[line:33] INFO 初始化类...
+Mon, 14 Jan 2019 21:56:26 demo13.py[line:75] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 21:56:45 demo13.py[line:104] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-21_56_45.html
+Mon, 14 Jan 2019 21:56:45 demo13.py[line:33] INFO 初始化类...
+Mon, 14 Jan 2019 21:56:45 demo13.py[line:42] INFO 初始化方法...
+Mon, 14 Jan 2019 21:56:46 demo13.py[line:42] INFO 初始化方法...
+Mon, 14 Jan 2019 21:56:46 demo13.py[line:75] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:13:30 demo13.py[line:105] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/report/result_2019-01-14-22_13_30.html
+Mon, 14 Jan 2019 22:13:30 demo13.py[line:33] INFO 初始化类...
+Mon, 14 Jan 2019 22:13:30 demo13.py[line:43] INFO 初始化方法...
+Mon, 14 Jan 2019 22:13:31 demo13.py[line:43] INFO 初始化方法...
+Mon, 14 Jan 2019 22:13:31 demo13.py[line:76] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:14:33 demo14.py[line:28] INFO 初始化类...
+Mon, 14 Jan 2019 22:14:33 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:14:33 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:14:33 demo14.py[line:73] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:17:46 demo14.py[line:28] INFO 初始化类...
+Mon, 14 Jan 2019 22:17:46 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:17:47 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:17:47 demo14.py[line:73] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:25:28 demo14.py[line:28] INFO 初始化类...
+Mon, 14 Jan 2019 22:25:28 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:25:29 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:25:29 demo14.py[line:73] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:31:07 run.py[line:19] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/reports/index.html
+Mon, 14 Jan 2019 22:31:34 demo14.py[line:28] INFO 初始化类...
+Mon, 14 Jan 2019 22:31:34 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:31:34 demo14.py[line:73] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:31:34 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:31:37 run.py[line:19] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/reports/index.html
+Mon, 14 Jan 2019 22:39:08 demo14.py[line:28] INFO 初始化类...
+Mon, 14 Jan 2019 22:39:08 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:39:08 demo14.py[line:73] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:39:08 demo14.py[line:74] INFO 请求接口返回数据:{
+    "data": {
+        "specialOfferStatus": 0, 
+        "isBuy": false, 
+        "bookAuthor": "[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229", 
+        "bookName": "\u300a\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7b80\u53f2\u4e09\u90e8\u66f2\u300b", 
+        "isTrial": false, 
+        "integral": 0, 
+        "datetime": "2018-08-17 17:52:19", 
+        "logId": "3210", 
+        "press": "\u4e2d\u4fe1\u51fa\u7248\u96c6\u56e2", 
+        "currentPrice": "122.40", 
+        "bookIntro": "\u4ee5\u8272\u5217\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7684\u91cd\u78c5\u4f5c\u54c1\u201c\u7b80\u53f2\u4e09\u90e8\u66f2\u201d \u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u8bb2\u8ff0\u4e86\u4ece\u5341\u4e07\u5e74\u524d\u6709\u751f\u547d\u8ff9\u8c61\u5f00\u59cb\u523021\u4e16\u7eaa\u8d44\u672c\u3001\u79d1\u6280\u4ea4\u7ec7\u7684\u4eba\u7c7b\u53d1\u5c55\u53f2\u3002 \u300a\u672a\u6765\u7b80\u53f2\u300b\u8fdb\u4e00\u6b65\u63a2\u8ba8\u4e86\u4eba\u7c7b\u672a\u6765\u7684\u547d\u8fd0\u3002\u300a\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898\u300b\u5f53\u4e0b\u9762\u5bf9\u4e0d\u786e\u5b9a\u7684\u4e16\u754c\u5982\u4f55\u6210\u4e3a\u672a\u6765\u7684\u638c\u63a7\u8005\u3002", 
+        "sellSevenDay": 8, 
+        "ebookSize": "", 
+        "operatingTitle": "\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7b80\u53f2\u4e09\u90e8\u66f2", 
+        "id": 3210, 
+        "style": 1, 
+        "authorList": [
+            "[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229"
+        ], 
+        "onlineTime": 1534681546, 
+        "title": "", 
+        "top": 0, 
+        "contractNumber": "LJZY20150105", 
+        "epubSize": "16904396", 
+        "merchantId": 10000, 
+        "currentTimestamp": 1547476749, 
+        "epubMd5": "86f183c8ec4b1e78f43b77e32292146f", 
+        "ttsSwitch": 0, 
+        "type": 1, 
+        "readingTitle": "", 
+        "status": 1, 
+        "chapterList": [], 
+        "otherContent": "1.\u300c\u5f97\u5230\u72ec\u5bb6\u9996\u53d1\uff0c\u9650\u65f665\u6298\u300d\r\n\u4ee5\u8272\u5217\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7684\u91cd\u78c5\u4f5c\u54c1\u201c\u7b80\u53f2\u4e09\u90e8\u66f2\u201d \u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u8bb2\u8ff0\u4e86\u4ece\u5341\u4e07\u5e74\u524d\u6709\u751f\u547d\u8ff9\u8c61\u5f00\u59cb\u523021\u4e16\u7eaa\u8d44\u672c\u3001\u79d1\u6280\u4ea4\u7ec7\u7684\u4eba\u7c7b\u53d1\u5c55\u53f2\u3002 \u300a\u672a\u6765\u7b80\u53f2\u300b\u8fdb\u4e00\u6b65\u63a2\u8ba8\u4e86\u4eba\u7c7b\u672a\u6765\u7684\u547d\u8fd0\u3002\u300a\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898\u300b\u5f53\u4e0b\u9762\u5bf9\u4e0d\u786e\u5b9a\u7684\u4e16\u754c\u5982\u4f55\u6210\u4e3a\u672a\u6765\u7684\u638c\u63a7\u8005\u3002\r\n\r\n2. \u4f5c\u8005\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\uff0c\u7545\u9500\u4e66\u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u300a\u672a\u6765\u7b80\u53f2\u300b\u4f5c\u8005\uff0c\u725b\u6d25\u5927\u5b66\u5386\u53f2\u5b66\u535a\u58eb\uff0c\u8036\u8def\u6492\u51b7\u5e0c\u4f2f\u6765\u5927\u5b66\u6559\u6388\uff0c\u5168\u7403\u77a9\u76ee\u7684\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u3002\u5176\u5173\u6ce8\u7684\u9886\u57df\u6a2a\u8de8\u5386\u53f2\u5b66\u3001\u4eba\u7c7b\u5b66\u3001\u751f\u6001\u5b66\u3001\u57fa\u56e0\u5b66\u7b49\uff0c\u4ed6\u4ece\u5b8f\u89c2\u89d2\u5ea6\u5207\u5165\u7684\u7814\u7a76\u5f80\u5f80\u5f97\u5230\u9887\u5177\u65b0\u610f\u800c\u53c8\u8010\u4eba\u5bfb\u5473\u7684\u89c2\u70b9\uff0c\u5f15\u53d1\u5168\u7403\u5e7f\u6cdb\u5173\u6ce8\u3002\r\n\r\n3.\u76ee\u5f55\r\n\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898\r\n\u7248\u6743\u4fe1\u606f\r\n\u5e8f\r\n\u7b2c\u4e00\u90e8\u5206 \u79d1\u6280\u98a0\u8986\r\n\u7b2c1\u7ae0 \u7406\u60f3\u7684\u5e7b\u706d\uff1a\u4ece\u65e7\u6545\u4e8b\u5230\u65b0\u6545\u4e8b\r\n\u7b2c2\u7ae0 \u5c31\u4e1a\uff1a\u7b49\u4f60\u957f\u5927\uff0c\u53ef\u80fd\u6ca1\u6709\u5de5\u4f5c\r\n\u7b2c3\u7ae0 \u81ea\u7531\uff1a\u6570\u636e\u9738\u6743\u4e0e\u793e\u4f1a\u516c\u5e73\r\n\u7b2c4\u7ae0 \u5e73\u7b49\uff1a\u8c01\u8be5\u62e5\u6709\u6570\u636e\r\n\u7b2c\u4e8c\u90e8\u5206 \u653f\u6cbb\u6311\u6218\r\n\u7b2c5\u7ae0 \u793e\u7fa4\uff1a\u4eba\u7c7b\u8eab\u4f53\u7684\u4ef7\u503c\r\n\u7b2c6\u7ae0 \u6587\u660e\uff1a\u4e16\u754c\u7684\u5927\u540c\r\n\u7b2c7\u7ae0 \u6c11\u65cf\u4e3b\u4e49\uff1a\u65e0\u6cd5\u89e3\u51b3\u5168\u7403\u6027\u95ee\u9898\r\n\u7b2c8\u7ae0 \u5b97\u6559\uff1a\u795e\u7947\u53ea\u662f\u4e3a\u56fd\u5bb6\u670d\u52a1\r\n\u7b2c9\u7ae0 \u6587\u5316\u8ba4\u540c\uff1a\u5f00\u653e\u4e0e\u5bbd\u5bb9\r\n\u7b2c\u4e09\u90e8\u5206 \u7edd\u671b\u4e0e\u5e0c\u671b\r\n\u7b2c10\u7ae0 \u6050\u6016\u4e3b\u4e49\uff1a\u5207\u5fcc\u53cd\u5e94\u8fc7\u5ea6\r\n\u7b2c11\u7ae0 \u6218\u4e89\uff1a\u6c38\u8fdc\u4e0d\u8981\u4f4e\u4f30\u4eba\u7c7b\u7684\u611a\u8822\r\n\u7b2c12\u7ae0 \u8c26\u900a\uff1a\u5730\u7403\u4e0d\u662f\u7ed5\u7740\u4f60\u8f6c\r\n\u7b2c13\u7ae0 \u795e\uff1a\u4e0d\u8981\u5984\u79f0\u795e\u7684\u540d\r\n\u7b2c14\u7ae0 \u4e16\u4fd7\u4e3b\u4e49\uff1a\u9762\u5bf9\u4f60\u7684\u4e0d\u5b8c\u7f8e\r\n\u7b2c\u56db\u90e8\u5206 \u771f\u76f8\r\n\u7b2c15\u7ae0 \u65e0\u77e5\uff1a\u4f60\u77e5\u9053\u7684\u6bd4\u4f60\u60f3\u8c61\u7684\u5c11\r\n\u7b2c16\u7ae0 \u6b63\u4e49\uff1a\u4eba\u7c7b\u7684\u9053\u5fb7\u56f0\u5883\r\n\u7b2c17\u7ae0 \u540e\u771f\u76f8\u65f6\u4ee3\uff1a\u8c0e\u8a00\u4e07\u4e16\u6c38\u5b58\r\n\u7b2c18\u7ae0 \u672a\u6765\u4e0d\u662f\u79d1\u5e7b\u5c0f\u8bf4\uff1a\u65e0\u6cd5\u9003\u79bb\u7684\u6bcd\u4f53\r\n\u7b2c\u4e94\u90e8\u5206 \u751f\u5b58\u4e0b\u53bb\r\n\u7b2c19\u7ae0 \u6559\u80b2\uff1a\u6539\u53d8\u662f\u552f\u4e00\u4e0d\u53d8\u7684\u4e8b\r\n\u7b2c20\u7ae0 \u610f\u4e49\uff1a\u4eba\u751f\u4e0d\u662f\u865a\u6784\u7684\u6545\u4e8b\r\n\u7b2c21\u7ae0 \u91cd\u65b0\u8ba4\u8bc6\u81ea\u5df1\uff1a\u4eba\u7c7b\u5fc3\u667a\u7684\u5965\u79d8\r\n\u81f4\u8c22\r\n\u6ce8\u91ca\r\n\u672a\u6765\u7b80\u53f2\uff1a\u4ece\u667a\u4eba\u5230\u667a\u795e\r\n\u7248\u6743\u4fe1\u606f\r\n\u7b2c1\u7ae0 \u4eba\u7c7b\u7684\u65b0\u8bae\u9898\r\n\u7b2c\u4e00\u90e8\u5206 \u667a\u4eba\u5f81\u670d\u4e16\u754c\r\n\u7b2c2\u7ae0 \u4eba\u7c7b\u4e16\r\n\u7b2c3\u7ae0 \u4eba\u7c7b\u7684\u7279\u8d28\r\n\u7b2c\u4e8c\u90e8\u5206 \u667a\u4eba\u4e3a\u4e16\u754c\u8d4b\u4e88\u610f\u4e49\r\n\u7b2c4\u7ae0 \u865a\u6784\u7684\u529b\u91cf\r\n\u7b2c5\u7ae0 \u79d1\u5b66\u4e0e\u5b97\u6559\u4e4b\u4e89\r\n\u7b2c6\u7ae0 \u4e0e\u201c\u73b0\u4ee3\u201d\u7684\u5951\u7ea6\r\n\u7b2c7\u7ae0 \u4eba\u6587\u4e3b\u4e49\u9769\u547d\r\n\u7b2c\u4e09\u90e8\u5206 \u667a\u4eba\u5931\u53bb\u63a7\u5236\u6743\r\n\u7b2c8\u7ae0 \u5b9e\u9a8c\u5ba4\u91cc\u7684\u5b9a\u65f6\u70b8\u5f39\r\n\u7b2c9\u7ae0 \u5927\u5206\u79bb\r\n\u7b2c10\u7ae0 \u610f\u8bc6\u7684\u6d77\u6d0b\r\n\u7b2c11\u7ae0 \u6570\u636e\u4e3b\u4e49\r\n\u56fe\u7247\u6765\u6e90\r\n\u81f4\u8c22\r\n\u6ce8\u91ca\r\n\u4eba\u7c7b\u7b80\u53f2\uff1a\u4ece\u52a8\u7269\u5230\u4e0a\u5e1d\r\n\u7248\u6743\u4fe1\u606f\r\n\u63a8\u8350\u5e8f\r\n\u7b2c\u4e00\u90e8\u5206 \u8ba4\u77e5\u9769\u547d\r\n\u7b2c\u4e00\u7ae0 \u4eba\u7c7b\uff1a\u4e00\u79cd\u4e5f\u6ca1\u4ec0\u4e48\u7279\u522b\u7684\u52a8\u7269\r\n\u7b2c\u4e8c\u7ae0 \u77e5\u5584\u6076\u6811\r\n\u7b2c\u4e09\u7ae0 \u4e9a\u5f53\u548c\u590f\u5a03\u7684\u4e00\u5929\r\n\u7b2c\u56db\u7ae0 \u6bc1\u5929\u706d\u5730\u7684\u4eba\u7c7b\u6d2a\u6c34\r\n\u7b2c\u4e8c\u90e8\u5206 \u519c\u4e1a\u9769\u547d\r\n\u7b2c\u4e94\u7ae0 \u53f2\u4e0a\u6700\u5927\u9a97\u5c40\r\n\u7b2c\u516d\u7ae0 \u76d6\u8d77\u91d1\u5b57\u5854\r\n\u7b2c\u4e03\u7ae0 \u8bb0\u5fc6\u8fc7\u8f7d\r\n\u7b2c\u516b\u7ae0 \u5386\u53f2\u4ece\u65e0\u6b63\u4e49\r\n\u7b2c\u4e09\u90e8\u5206 \u4eba\u7c7b\u7684\u878d\u5408\u7edf\u4e00\r\n\u7b2c\u4e5d\u7ae0 \u5386\u53f2\u7684\u65b9\u5411\r\n\u7b2c\u5341\u7ae0 \u91d1\u94b1\u7684\u5473\u9053\r\n\u7b2c\u5341\u4e00\u7ae0 \u5e1d\u56fd\u7684\u613f\u666f\r\n\u7b2c\u5341\u4e8c\u7ae0 \u5b97\u6559\u7684\u6cd5\u5219\r\n\u7b2c\u5341\u4e09\u7ae0 \u6210\u529f\u7684\u79d8\u5bc6\r\n\u7b2c\u56db\u90e8\u5206 \u79d1\u5b66\u9769\u547d\r\n\u7b2c\u5341\u56db\u7ae0 \u53d1\u73b0\u81ea\u5df1\u7684\u65e0\u77e5\r\n\u7b2c\u5341\u4e94\u7ae0 \u79d1\u5b66\u4e0e\u5e1d\u56fd\u7684\u8054\u59fb\r\n\u7b2c\u5341\u516d\u7ae0 \u8d44\u672c\u4e3b\u4e49\u6559\u6761\r\n\u7b2c\u5341\u4e03\u7ae0 \u5de5\u4e1a\u7684\u5de8\u8f6e\r\n\u7b2c\u5341\u516b\u7ae0 \u4e00\u573a\u6c38\u8fdc\u7684\u9769\u547d\r\n\u7b2c\u5341\u4e5d\u7ae0 \u4ece\u6b64\u8fc7\u7740\u5e78\u798f\u5feb\u4e50\u7684\u65e5\u5b50\r\n\u7b2c\u4e8c\u5341\u7ae0 \u667a\u4eba\u672b\u65e5\r\n\u540e\u8bb0 \u53d8\u6210\u795e\u7684\u8fd9\u79cd\u52a8\u7269\r\n\u81f4\u8c22\r\n\u5386\u53f2\u5e74\u8868\r\n\u53c2\u8003\u6570\u636e\r\n\r\n4.\u56fe\u4e66\u4fe1\u606f\r\n\u300a\u5c24\u74e6\u5c14\u7b80\u53f2\u4e09\u90e8\u66f2\u300b\r\n\u4f5c\u8005\uff1a[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\r\n\u51fa\u7248\u793e\uff1a\u4e2d\u4fe1\u51fa\u7248\u96c6\u56e2\r\n\u51fa\u7248\u65f6\u95f4\uff1a2018-08-20\r\n", 
+        "price": "122.40", 
+        "ebook": "", 
+        "otherShareSummary": "\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u4e09\u90e8\u4ee3\u8868\u4f5c\u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u3001\u300a\u672a\u6765\u7b80\u53f2\u300b\u3001\u300a\u4eca\u65e5\u7b80\u53f2\u300b\u3002", 
+        "uptime": "2019-01-14 00:05:52", 
+        "subClass": 0, 
+        "otherData": "", 
+        "drmEpubMd5": "90dd5d63833e977ac207550fcaea406f", 
+        "catalog": "", 
+        "bSpecialPrice": "69.99", 
+        "bookFilename": "", 
+        "originalPrice": "122.40", 
+        "catalogList": [
+            {
+                "text": "\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898", 
+                "href": "Text/1_01.xhtml", 
+                "playOrder": 1, 
+                "level": 0
+            }, 
+            {
+                "text": "\u7248\u6743\u4fe1\u606f", 
+                "href": "Text/1_34.xhtml", 
+                "playOrder": 2, 
+                "level": 1
+            }, 
+            {
+                "text": "\u5e8f", 
+                "href": "Text/1_05.xhtml", 
+                "playOrder": 3, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u90e8\u5206 \u79d1\u6280\u98a0\u8986", 
+                "href": "Text/1_06.xhtml", 
+                "playOrder": 4, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c1\u7ae0 \u7406\u60f3\u7684\u5e7b\u706d\uff1a\u4ece\u65e7\u6545\u4e8b\u5230\u65b0\u6545\u4e8b", 
+                "href": "Text/1_07.xhtml", 
+                "playOrder": 5, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c2\u7ae0 \u5c31\u4e1a\uff1a\u7b49\u4f60\u957f\u5927\uff0c\u53ef\u80fd\u6ca1\u6709\u5de5\u4f5c", 
+                "href": "Text/1_08.xhtml", 
+                "playOrder": 6, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c3\u7ae0 \u81ea\u7531\uff1a\u6570\u636e\u9738\u6743\u4e0e\u793e\u4f1a\u516c\u5e73", 
+                "href": "Text/1_09.xhtml", 
+                "playOrder": 7, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c4\u7ae0 \u5e73\u7b49\uff1a\u8c01\u8be5\u62e5\u6709\u6570\u636e", 
+                "href": "Text/1_10.xhtml", 
+                "playOrder": 8, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u90e8\u5206 \u653f\u6cbb\u6311\u6218", 
+                "href": "Text/1_11.xhtml", 
+                "playOrder": 9, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c5\u7ae0 \u793e\u7fa4\uff1a\u4eba\u7c7b\u8eab\u4f53\u7684\u4ef7\u503c", 
+                "href": "Text/1_12.xhtml", 
+                "playOrder": 10, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c6\u7ae0 \u6587\u660e\uff1a\u4e16\u754c\u7684\u5927\u540c", 
+                "href": "Text/1_13.xhtml", 
+                "playOrder": 11, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c7\u7ae0 \u6c11\u65cf\u4e3b\u4e49\uff1a\u65e0\u6cd5\u89e3\u51b3\u5168\u7403\u6027\u95ee\u9898", 
+                "href": "Text/1_14.xhtml", 
+                "playOrder": 12, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c8\u7ae0 \u5b97\u6559\uff1a\u795e\u7947\u53ea\u662f\u4e3a\u56fd\u5bb6\u670d\u52a1", 
+                "href": "Text/1_15.xhtml", 
+                "playOrder": 13, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c9\u7ae0 \u6587\u5316\u8ba4\u540c\uff1a\u5f00\u653e\u4e0e\u5bbd\u5bb9", 
+                "href": "Text/1_16.xhtml", 
+                "playOrder": 14, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u90e8\u5206 \u7edd\u671b\u4e0e\u5e0c\u671b", 
+                "href": "Text/1_17.xhtml", 
+                "playOrder": 15, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c10\u7ae0 \u6050\u6016\u4e3b\u4e49\uff1a\u5207\u5fcc\u53cd\u5e94\u8fc7\u5ea6", 
+                "href": "Text/1_18.xhtml", 
+                "playOrder": 16, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c11\u7ae0 \u6218\u4e89\uff1a\u6c38\u8fdc\u4e0d\u8981\u4f4e\u4f30\u4eba\u7c7b\u7684\u611a\u8822", 
+                "href": "Text/1_19.xhtml", 
+                "playOrder": 17, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c12\u7ae0 \u8c26\u900a\uff1a\u5730\u7403\u4e0d\u662f\u7ed5\u7740\u4f60\u8f6c", 
+                "href": "Text/1_20.xhtml", 
+                "playOrder": 18, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c13\u7ae0 \u795e\uff1a\u4e0d\u8981\u5984\u79f0\u795e\u7684\u540d", 
+                "href": "Text/1_21.xhtml", 
+                "playOrder": 19, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c14\u7ae0 \u4e16\u4fd7\u4e3b\u4e49\uff1a\u9762\u5bf9\u4f60\u7684\u4e0d\u5b8c\u7f8e", 
+                "href": "Text/1_22.xhtml", 
+                "playOrder": 20, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u56db\u90e8\u5206 \u771f\u76f8", 
+                "href": "Text/1_23.xhtml", 
+                "playOrder": 21, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c15\u7ae0 \u65e0\u77e5\uff1a\u4f60\u77e5\u9053\u7684\u6bd4\u4f60\u60f3\u8c61\u7684\u5c11", 
+                "href": "Text/1_24.xhtml", 
+                "playOrder": 22, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c16\u7ae0 \u6b63\u4e49\uff1a\u4eba\u7c7b\u7684\u9053\u5fb7\u56f0\u5883", 
+                "href": "Text/1_25.xhtml", 
+                "playOrder": 23, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c17\u7ae0 \u540e\u771f\u76f8\u65f6\u4ee3\uff1a\u8c0e\u8a00\u4e07\u4e16\u6c38\u5b58", 
+                "href": "Text/1_26.xhtml", 
+                "playOrder": 24, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c18\u7ae0 \u672a\u6765\u4e0d\u662f\u79d1\u5e7b\u5c0f\u8bf4\uff1a\u65e0\u6cd5\u9003\u79bb\u7684\u6bcd\u4f53", 
+                "href": "Text/1_27.xhtml", 
+                "playOrder": 25, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e94\u90e8\u5206 \u751f\u5b58\u4e0b\u53bb", 
+                "href": "Text/1_28.xhtml", 
+                "playOrder": 26, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c19\u7ae0 \u6559\u80b2\uff1a\u6539\u53d8\u662f\u552f\u4e00\u4e0d\u53d8\u7684\u4e8b", 
+                "href": "Text/1_29.xhtml", 
+                "playOrder": 27, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c20\u7ae0 \u610f\u4e49\uff1a\u4eba\u751f\u4e0d\u662f\u865a\u6784\u7684\u6545\u4e8b", 
+                "href": "Text/1_30.xhtml", 
+                "playOrder": 28, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c21\u7ae0 \u91cd\u65b0\u8ba4\u8bc6\u81ea\u5df1\uff1a\u4eba\u7c7b\u5fc3\u667a\u7684\u5965\u79d8", 
+                "href": "Text/1_31.xhtml", 
+                "playOrder": 29, 
+                "level": 2
+            }, 
+            {
+                "text": "\u81f4\u8c22", 
+                "href": "Text/1_32.xhtml", 
+                "playOrder": 30, 
+                "level": 1
+            }, 
+            {
+                "text": "\u6ce8\u91ca", 
+                "href": "Text/1_33.xhtml", 
+                "playOrder": 31, 
+                "level": 1
+            }, 
+            {
+                "text": "\u672a\u6765\u7b80\u53f2\uff1a\u4ece\u667a\u4eba\u5230\u667a\u795e", 
+                "href": "Text/2_01.xhtml", 
+                "playOrder": 32, 
+                "level": 0
+            }, 
+            {
+                "text": "\u7248\u6743\u4fe1\u606f", 
+                "href": "Text/2_24.xhtml", 
+                "playOrder": 33, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c1\u7ae0 \u4eba\u7c7b\u7684\u65b0\u8bae\u9898", 
+                "href": "Text/2_07.xhtml", 
+                "playOrder": 34, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u90e8\u5206 \u667a\u4eba\u5f81\u670d\u4e16\u754c", 
+                "href": "Text/2_08.xhtml", 
+                "playOrder": 35, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c2\u7ae0 \u4eba\u7c7b\u4e16", 
+                "href": "Text/2_09.xhtml", 
+                "playOrder": 36, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c3\u7ae0 \u4eba\u7c7b\u7684\u7279\u8d28", 
+                "href": "Text/2_10.xhtml", 
+                "playOrder": 37, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u90e8\u5206 \u667a\u4eba\u4e3a\u4e16\u754c\u8d4b\u4e88\u610f\u4e49", 
+                "href": "Text/2_11.xhtml", 
+                "playOrder": 38, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c4\u7ae0 \u865a\u6784\u7684\u529b\u91cf", 
+                "href": "Text/2_12.xhtml", 
+                "playOrder": 39, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c5\u7ae0 \u79d1\u5b66\u4e0e\u5b97\u6559\u4e4b\u4e89", 
+                "href": "Text/2_13.xhtml", 
+                "playOrder": 40, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c6\u7ae0 \u4e0e\u201c\u73b0\u4ee3\u201d\u7684\u5951\u7ea6", 
+                "href": "Text/2_14.xhtml", 
+                "playOrder": 41, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c7\u7ae0 \u4eba\u6587\u4e3b\u4e49\u9769\u547d", 
+                "href": "Text/2_15.xhtml", 
+                "playOrder": 42, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u90e8\u5206 \u667a\u4eba\u5931\u53bb\u63a7\u5236\u6743", 
+                "href": "Text/2_16.xhtml", 
+                "playOrder": 43, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c8\u7ae0 \u5b9e\u9a8c\u5ba4\u91cc\u7684\u5b9a\u65f6\u70b8\u5f39", 
+                "href": "Text/2_17.xhtml", 
+                "playOrder": 44, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c9\u7ae0 \u5927\u5206\u79bb", 
+                "href": "Text/2_18.xhtml", 
+                "playOrder": 45, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c10\u7ae0 \u610f\u8bc6\u7684\u6d77\u6d0b", 
+                "href": "Text/2_19.xhtml", 
+                "playOrder": 46, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c11\u7ae0 \u6570\u636e\u4e3b\u4e49", 
+                "href": "Text/2_20.xhtml", 
+                "playOrder": 47, 
+                "level": 2
+            }, 
+            {
+                "text": "\u56fe\u7247\u6765\u6e90", 
+                "href": "Text/2_21.xhtml", 
+                "playOrder": 48, 
+                "level": 1
+            }, 
+            {
+                "text": "\u81f4\u8c22", 
+                "href": "Text/2_22.xhtml", 
+                "playOrder": 49, 
+                "level": 1
+            }, 
+            {
+                "text": "\u6ce8\u91ca", 
+                "href": "Text/2_23.xhtml", 
+                "playOrder": 50, 
+                "level": 1
+            }, 
+            {
+                "text": "\u4eba\u7c7b\u7b80\u53f2\uff1a\u4ece\u52a8\u7269\u5230\u4e0a\u5e1d", 
+                "href": "Text/3_01.xhtml", 
+                "playOrder": 51, 
+                "level": 0
+            }, 
+            {
+                "text": "\u7248\u6743\u4fe1\u606f", 
+                "href": "Text/3_29.xhtml", 
+                "playOrder": 52, 
+                "level": 1
+            }, 
+            {
+                "text": "\u63a8\u8350\u5e8f", 
+                "href": "Text/3_04.xhtml", 
+                "playOrder": 53, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u90e8\u5206 \u8ba4\u77e5\u9769\u547d", 
+                "href": "Text/3_05.xhtml", 
+                "playOrder": 54, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u7ae0 \u4eba\u7c7b\uff1a\u4e00\u79cd\u4e5f\u6ca1\u4ec0\u4e48\u7279\u522b\u7684\u52a8\u7269", 
+                "href": "Text/3_05.xhtml#sigil_toc_id_1", 
+                "playOrder": 55, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u7ae0 \u77e5\u5584\u6076\u6811", 
+                "href": "Text/3_06.xhtml", 
+                "playOrder": 56, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u7ae0 \u4e9a\u5f53\u548c\u590f\u5a03\u7684\u4e00\u5929", 
+                "href": "Text/3_07.xhtml", 
+                "playOrder": 57, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u56db\u7ae0 \u6bc1\u5929\u706d\u5730\u7684\u4eba\u7c7b\u6d2a\u6c34", 
+                "href": "Text/3_08.xhtml", 
+                "playOrder": 58, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u90e8\u5206 \u519c\u4e1a\u9769\u547d", 
+                "href": "Text/3_09.xhtml", 
+                "playOrder": 59, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e94\u7ae0 \u53f2\u4e0a\u6700\u5927\u9a97\u5c40", 
+                "href": "Text/3_09.xhtml#sigil_toc_id_2", 
+                "playOrder": 60, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u516d\u7ae0 \u76d6\u8d77\u91d1\u5b57\u5854", 
+                "href": "Text/3_10.xhtml", 
+                "playOrder": 61, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e03\u7ae0 \u8bb0\u5fc6\u8fc7\u8f7d", 
+                "href": "Text/3_11.xhtml", 
+                "playOrder": 62, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u516b\u7ae0 \u5386\u53f2\u4ece\u65e0\u6b63\u4e49", 
+                "href": "Text/3_12.xhtml", 
+                "playOrder": 63, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u90e8\u5206 \u4eba\u7c7b\u7684\u878d\u5408\u7edf\u4e00", 
+                "href": "Text/3_13.xhtml", 
+                "playOrder": 64, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e5d\u7ae0 \u5386\u53f2\u7684\u65b9\u5411", 
+                "href": "Text/3_13.xhtml#sigil_toc_id_3", 
+                "playOrder": 65, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u7ae0 \u91d1\u94b1\u7684\u5473\u9053", 
+                "href": "Text/3_14.xhtml", 
+                "playOrder": 66, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e00\u7ae0 \u5e1d\u56fd\u7684\u613f\u666f", 
+                "href": "Text/3_15.xhtml", 
+                "playOrder": 67, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e8c\u7ae0 \u5b97\u6559\u7684\u6cd5\u5219", 
+                "href": "Text/3_16.xhtml", 
+                "playOrder": 68, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e09\u7ae0 \u6210\u529f\u7684\u79d8\u5bc6", 
+                "href": "Text/3_17.xhtml", 
+                "playOrder": 69, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u56db\u90e8\u5206 \u79d1\u5b66\u9769\u547d", 
+                "href": "Text/3_18.xhtml", 
+                "playOrder": 70, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u5341\u56db\u7ae0 \u53d1\u73b0\u81ea\u5df1\u7684\u65e0\u77e5", 
+                "href": "Text/3_18.xhtml#sigil_toc_id_4", 
+                "playOrder": 71, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e94\u7ae0 \u79d1\u5b66\u4e0e\u5e1d\u56fd\u7684\u8054\u59fb", 
+                "href": "Text/3_19.xhtml", 
+                "playOrder": 72, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u516d\u7ae0 \u8d44\u672c\u4e3b\u4e49\u6559\u6761", 
+                "href": "Text/3_20.xhtml", 
+                "playOrder": 73, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e03\u7ae0 \u5de5\u4e1a\u7684\u5de8\u8f6e", 
+                "href": "Text/3_21.xhtml", 
+                "playOrder": 74, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u516b\u7ae0 \u4e00\u573a\u6c38\u8fdc\u7684\u9769\u547d", 
+                "href": "Text/3_22.xhtml", 
+                "playOrder": 75, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e5d\u7ae0 \u4ece\u6b64\u8fc7\u7740\u5e78\u798f\u5feb\u4e50\u7684\u65e5\u5b50", 
+                "href": "Text/3_23.xhtml", 
+                "playOrder": 76, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u5341\u7ae0 \u667a\u4eba\u672b\u65e5", 
+                "href": "Text/3_24.xhtml", 
+                "playOrder": 77, 
+                "level": 2
+            }, 
+            {
+                "text": "\u540e\u8bb0 \u53d8\u6210\u795e\u7684\u8fd9\u79cd\u52a8\u7269", 
+                "href": "Text/3_25.xhtml", 
+                "playOrder": 78, 
+                "level": 1
+            }, 
+            {
+                "text": "\u81f4\u8c22", 
+                "href": "Text/3_26.xhtml", 
+                "playOrder": 79, 
+                "level": 1
+            }, 
+            {
+                "text": "\u5386\u53f2\u5e74\u8868", 
+                "href": "Text/3_27.xhtml", 
+                "playOrder": 80, 
+                "level": 1
+            }, 
+            {
+                "text": "\u53c2\u8003\u6570\u636e", 
+                "href": "Text/3_28.xhtml", 
+                "playOrder": 81, 
+                "level": 1
+            }
+        ], 
+        "otherShareTitle": "", 
+        "readProgress": 0, 
+        "banner": "", 
+        "class": 0, 
+        "epub": "https://igetoss-cdn.igetget.com/ebook/201808/19/201808191212352228594704.igetgetbooks", 
+        "count": 0, 
+        "drmEpubSize": "18266774", 
+        "epubAeskey": "c91276157ef27115", 
+        "bSpecialPriceEtime": 1543075200, 
+        "shortTitle": "", 
+        "logType": "ebook", 
+        "author": "[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229", 
+        "cover": "http://piccdn.igetget.com/img/201808/17/201808171743196489228928.jpg", 
+        "publishTime": "2018-08-20", 
+        "bSpecialPriceStime": 1542470400, 
+        "authorInfo": "\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\uff0c\u7545\u9500\u4e66\u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u300a\u672a\u6765\u7b80\u53f2\u300b\u4f5c\u8005\uff0c\u725b\u6d25\u5927\u5b66\u5386\u53f2\u5b66\u535a\u58eb\uff0c\u8036\u8def\u6492\u51b7\u5e0c\u4f2f\u6765\u5927\u5b66\u6559\u6388\uff0c\u5168\u7403\u77a9\u76ee\u7684\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u3002\u5176\u5173\u6ce8\u7684\u9886\u57df\u6a2a\u8de8\u5386\u53f2\u5b66\u3001\u4eba\u7c7b\u5b66\u3001\u751f\u6001\u5b66\u3001\u57fa\u56e0\u5b66\u7b49\uff0c\u4ed6\u4ece\u5b8f\u89c2\u89d2\u5ea6\u5207\u5165\u7684\u7814\u7a76\u5f80\u5f80\u5f97\u5230\u9887\u5177\u65b0\u610f\u800c\u53c8\u8010\u4eba\u5bfb\u5473\u7684\u89c2\u70b9\uff0c\u5f15\u53d1\u5168\u7403\u5e7f\u6cdb\u5173\u6ce8\u3002", 
+        "sellCount": 0, 
+        "isTtsSwitch": false, 
+        "drmEpub": "https://igetoss-cdn.igetget.com/ebook/201808/19/201808191212352228594704_drm.igetgetbooks", 
+        "pageNum": 0
+    }, 
+    "errCode": 0, 
+    "errMsg": ""
+}
+Mon, 14 Jan 2019 22:39:08 demo14.py[line:78] INFO 结束方法...
+Mon, 14 Jan 2019 22:39:08 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:39:11 demo14.py[line:55] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:39:11 demo14.py[line:56] INFO 请求接口返回数据:{
+    "data": {
+        "specialOfferStatus": 0, 
+        "isBuy": false, 
+        "bookAuthor": "[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229", 
+        "bookName": "\u300a\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7b80\u53f2\u4e09\u90e8\u66f2\u300b", 
+        "isTrial": false, 
+        "integral": 0, 
+        "datetime": "2018-08-17 17:52:19", 
+        "logId": "3210", 
+        "press": "\u4e2d\u4fe1\u51fa\u7248\u96c6\u56e2", 
+        "currentPrice": "122.40", 
+        "bookIntro": "\u4ee5\u8272\u5217\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7684\u91cd\u78c5\u4f5c\u54c1\u201c\u7b80\u53f2\u4e09\u90e8\u66f2\u201d \u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u8bb2\u8ff0\u4e86\u4ece\u5341\u4e07\u5e74\u524d\u6709\u751f\u547d\u8ff9\u8c61\u5f00\u59cb\u523021\u4e16\u7eaa\u8d44\u672c\u3001\u79d1\u6280\u4ea4\u7ec7\u7684\u4eba\u7c7b\u53d1\u5c55\u53f2\u3002 \u300a\u672a\u6765\u7b80\u53f2\u300b\u8fdb\u4e00\u6b65\u63a2\u8ba8\u4e86\u4eba\u7c7b\u672a\u6765\u7684\u547d\u8fd0\u3002\u300a\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898\u300b\u5f53\u4e0b\u9762\u5bf9\u4e0d\u786e\u5b9a\u7684\u4e16\u754c\u5982\u4f55\u6210\u4e3a\u672a\u6765\u7684\u638c\u63a7\u8005\u3002", 
+        "sellSevenDay": 8, 
+        "ebookSize": "", 
+        "operatingTitle": "\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7b80\u53f2\u4e09\u90e8\u66f2", 
+        "id": 3210, 
+        "style": 1, 
+        "authorList": [
+            "[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229"
+        ], 
+        "onlineTime": 1534681546, 
+        "title": "", 
+        "top": 0, 
+        "contractNumber": "LJZY20150105", 
+        "epubSize": "16904396", 
+        "merchantId": 10000, 
+        "currentTimestamp": 1547476721, 
+        "epubMd5": "86f183c8ec4b1e78f43b77e32292146f", 
+        "ttsSwitch": 0, 
+        "type": 1, 
+        "readingTitle": "", 
+        "status": 1, 
+        "chapterList": [], 
+        "otherContent": "1.\u300c\u5f97\u5230\u72ec\u5bb6\u9996\u53d1\uff0c\u9650\u65f665\u6298\u300d\r\n\u4ee5\u8272\u5217\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u7684\u91cd\u78c5\u4f5c\u54c1\u201c\u7b80\u53f2\u4e09\u90e8\u66f2\u201d \u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u8bb2\u8ff0\u4e86\u4ece\u5341\u4e07\u5e74\u524d\u6709\u751f\u547d\u8ff9\u8c61\u5f00\u59cb\u523021\u4e16\u7eaa\u8d44\u672c\u3001\u79d1\u6280\u4ea4\u7ec7\u7684\u4eba\u7c7b\u53d1\u5c55\u53f2\u3002 \u300a\u672a\u6765\u7b80\u53f2\u300b\u8fdb\u4e00\u6b65\u63a2\u8ba8\u4e86\u4eba\u7c7b\u672a\u6765\u7684\u547d\u8fd0\u3002\u300a\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898\u300b\u5f53\u4e0b\u9762\u5bf9\u4e0d\u786e\u5b9a\u7684\u4e16\u754c\u5982\u4f55\u6210\u4e3a\u672a\u6765\u7684\u638c\u63a7\u8005\u3002\r\n\r\n2. \u4f5c\u8005\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\uff0c\u7545\u9500\u4e66\u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u300a\u672a\u6765\u7b80\u53f2\u300b\u4f5c\u8005\uff0c\u725b\u6d25\u5927\u5b66\u5386\u53f2\u5b66\u535a\u58eb\uff0c\u8036\u8def\u6492\u51b7\u5e0c\u4f2f\u6765\u5927\u5b66\u6559\u6388\uff0c\u5168\u7403\u77a9\u76ee\u7684\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u3002\u5176\u5173\u6ce8\u7684\u9886\u57df\u6a2a\u8de8\u5386\u53f2\u5b66\u3001\u4eba\u7c7b\u5b66\u3001\u751f\u6001\u5b66\u3001\u57fa\u56e0\u5b66\u7b49\uff0c\u4ed6\u4ece\u5b8f\u89c2\u89d2\u5ea6\u5207\u5165\u7684\u7814\u7a76\u5f80\u5f80\u5f97\u5230\u9887\u5177\u65b0\u610f\u800c\u53c8\u8010\u4eba\u5bfb\u5473\u7684\u89c2\u70b9\uff0c\u5f15\u53d1\u5168\u7403\u5e7f\u6cdb\u5173\u6ce8\u3002\r\n\r\n3.\u76ee\u5f55\r\n\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898\r\n\u7248\u6743\u4fe1\u606f\r\n\u5e8f\r\n\u7b2c\u4e00\u90e8\u5206 \u79d1\u6280\u98a0\u8986\r\n\u7b2c1\u7ae0 \u7406\u60f3\u7684\u5e7b\u706d\uff1a\u4ece\u65e7\u6545\u4e8b\u5230\u65b0\u6545\u4e8b\r\n\u7b2c2\u7ae0 \u5c31\u4e1a\uff1a\u7b49\u4f60\u957f\u5927\uff0c\u53ef\u80fd\u6ca1\u6709\u5de5\u4f5c\r\n\u7b2c3\u7ae0 \u81ea\u7531\uff1a\u6570\u636e\u9738\u6743\u4e0e\u793e\u4f1a\u516c\u5e73\r\n\u7b2c4\u7ae0 \u5e73\u7b49\uff1a\u8c01\u8be5\u62e5\u6709\u6570\u636e\r\n\u7b2c\u4e8c\u90e8\u5206 \u653f\u6cbb\u6311\u6218\r\n\u7b2c5\u7ae0 \u793e\u7fa4\uff1a\u4eba\u7c7b\u8eab\u4f53\u7684\u4ef7\u503c\r\n\u7b2c6\u7ae0 \u6587\u660e\uff1a\u4e16\u754c\u7684\u5927\u540c\r\n\u7b2c7\u7ae0 \u6c11\u65cf\u4e3b\u4e49\uff1a\u65e0\u6cd5\u89e3\u51b3\u5168\u7403\u6027\u95ee\u9898\r\n\u7b2c8\u7ae0 \u5b97\u6559\uff1a\u795e\u7947\u53ea\u662f\u4e3a\u56fd\u5bb6\u670d\u52a1\r\n\u7b2c9\u7ae0 \u6587\u5316\u8ba4\u540c\uff1a\u5f00\u653e\u4e0e\u5bbd\u5bb9\r\n\u7b2c\u4e09\u90e8\u5206 \u7edd\u671b\u4e0e\u5e0c\u671b\r\n\u7b2c10\u7ae0 \u6050\u6016\u4e3b\u4e49\uff1a\u5207\u5fcc\u53cd\u5e94\u8fc7\u5ea6\r\n\u7b2c11\u7ae0 \u6218\u4e89\uff1a\u6c38\u8fdc\u4e0d\u8981\u4f4e\u4f30\u4eba\u7c7b\u7684\u611a\u8822\r\n\u7b2c12\u7ae0 \u8c26\u900a\uff1a\u5730\u7403\u4e0d\u662f\u7ed5\u7740\u4f60\u8f6c\r\n\u7b2c13\u7ae0 \u795e\uff1a\u4e0d\u8981\u5984\u79f0\u795e\u7684\u540d\r\n\u7b2c14\u7ae0 \u4e16\u4fd7\u4e3b\u4e49\uff1a\u9762\u5bf9\u4f60\u7684\u4e0d\u5b8c\u7f8e\r\n\u7b2c\u56db\u90e8\u5206 \u771f\u76f8\r\n\u7b2c15\u7ae0 \u65e0\u77e5\uff1a\u4f60\u77e5\u9053\u7684\u6bd4\u4f60\u60f3\u8c61\u7684\u5c11\r\n\u7b2c16\u7ae0 \u6b63\u4e49\uff1a\u4eba\u7c7b\u7684\u9053\u5fb7\u56f0\u5883\r\n\u7b2c17\u7ae0 \u540e\u771f\u76f8\u65f6\u4ee3\uff1a\u8c0e\u8a00\u4e07\u4e16\u6c38\u5b58\r\n\u7b2c18\u7ae0 \u672a\u6765\u4e0d\u662f\u79d1\u5e7b\u5c0f\u8bf4\uff1a\u65e0\u6cd5\u9003\u79bb\u7684\u6bcd\u4f53\r\n\u7b2c\u4e94\u90e8\u5206 \u751f\u5b58\u4e0b\u53bb\r\n\u7b2c19\u7ae0 \u6559\u80b2\uff1a\u6539\u53d8\u662f\u552f\u4e00\u4e0d\u53d8\u7684\u4e8b\r\n\u7b2c20\u7ae0 \u610f\u4e49\uff1a\u4eba\u751f\u4e0d\u662f\u865a\u6784\u7684\u6545\u4e8b\r\n\u7b2c21\u7ae0 \u91cd\u65b0\u8ba4\u8bc6\u81ea\u5df1\uff1a\u4eba\u7c7b\u5fc3\u667a\u7684\u5965\u79d8\r\n\u81f4\u8c22\r\n\u6ce8\u91ca\r\n\u672a\u6765\u7b80\u53f2\uff1a\u4ece\u667a\u4eba\u5230\u667a\u795e\r\n\u7248\u6743\u4fe1\u606f\r\n\u7b2c1\u7ae0 \u4eba\u7c7b\u7684\u65b0\u8bae\u9898\r\n\u7b2c\u4e00\u90e8\u5206 \u667a\u4eba\u5f81\u670d\u4e16\u754c\r\n\u7b2c2\u7ae0 \u4eba\u7c7b\u4e16\r\n\u7b2c3\u7ae0 \u4eba\u7c7b\u7684\u7279\u8d28\r\n\u7b2c\u4e8c\u90e8\u5206 \u667a\u4eba\u4e3a\u4e16\u754c\u8d4b\u4e88\u610f\u4e49\r\n\u7b2c4\u7ae0 \u865a\u6784\u7684\u529b\u91cf\r\n\u7b2c5\u7ae0 \u79d1\u5b66\u4e0e\u5b97\u6559\u4e4b\u4e89\r\n\u7b2c6\u7ae0 \u4e0e\u201c\u73b0\u4ee3\u201d\u7684\u5951\u7ea6\r\n\u7b2c7\u7ae0 \u4eba\u6587\u4e3b\u4e49\u9769\u547d\r\n\u7b2c\u4e09\u90e8\u5206 \u667a\u4eba\u5931\u53bb\u63a7\u5236\u6743\r\n\u7b2c8\u7ae0 \u5b9e\u9a8c\u5ba4\u91cc\u7684\u5b9a\u65f6\u70b8\u5f39\r\n\u7b2c9\u7ae0 \u5927\u5206\u79bb\r\n\u7b2c10\u7ae0 \u610f\u8bc6\u7684\u6d77\u6d0b\r\n\u7b2c11\u7ae0 \u6570\u636e\u4e3b\u4e49\r\n\u56fe\u7247\u6765\u6e90\r\n\u81f4\u8c22\r\n\u6ce8\u91ca\r\n\u4eba\u7c7b\u7b80\u53f2\uff1a\u4ece\u52a8\u7269\u5230\u4e0a\u5e1d\r\n\u7248\u6743\u4fe1\u606f\r\n\u63a8\u8350\u5e8f\r\n\u7b2c\u4e00\u90e8\u5206 \u8ba4\u77e5\u9769\u547d\r\n\u7b2c\u4e00\u7ae0 \u4eba\u7c7b\uff1a\u4e00\u79cd\u4e5f\u6ca1\u4ec0\u4e48\u7279\u522b\u7684\u52a8\u7269\r\n\u7b2c\u4e8c\u7ae0 \u77e5\u5584\u6076\u6811\r\n\u7b2c\u4e09\u7ae0 \u4e9a\u5f53\u548c\u590f\u5a03\u7684\u4e00\u5929\r\n\u7b2c\u56db\u7ae0 \u6bc1\u5929\u706d\u5730\u7684\u4eba\u7c7b\u6d2a\u6c34\r\n\u7b2c\u4e8c\u90e8\u5206 \u519c\u4e1a\u9769\u547d\r\n\u7b2c\u4e94\u7ae0 \u53f2\u4e0a\u6700\u5927\u9a97\u5c40\r\n\u7b2c\u516d\u7ae0 \u76d6\u8d77\u91d1\u5b57\u5854\r\n\u7b2c\u4e03\u7ae0 \u8bb0\u5fc6\u8fc7\u8f7d\r\n\u7b2c\u516b\u7ae0 \u5386\u53f2\u4ece\u65e0\u6b63\u4e49\r\n\u7b2c\u4e09\u90e8\u5206 \u4eba\u7c7b\u7684\u878d\u5408\u7edf\u4e00\r\n\u7b2c\u4e5d\u7ae0 \u5386\u53f2\u7684\u65b9\u5411\r\n\u7b2c\u5341\u7ae0 \u91d1\u94b1\u7684\u5473\u9053\r\n\u7b2c\u5341\u4e00\u7ae0 \u5e1d\u56fd\u7684\u613f\u666f\r\n\u7b2c\u5341\u4e8c\u7ae0 \u5b97\u6559\u7684\u6cd5\u5219\r\n\u7b2c\u5341\u4e09\u7ae0 \u6210\u529f\u7684\u79d8\u5bc6\r\n\u7b2c\u56db\u90e8\u5206 \u79d1\u5b66\u9769\u547d\r\n\u7b2c\u5341\u56db\u7ae0 \u53d1\u73b0\u81ea\u5df1\u7684\u65e0\u77e5\r\n\u7b2c\u5341\u4e94\u7ae0 \u79d1\u5b66\u4e0e\u5e1d\u56fd\u7684\u8054\u59fb\r\n\u7b2c\u5341\u516d\u7ae0 \u8d44\u672c\u4e3b\u4e49\u6559\u6761\r\n\u7b2c\u5341\u4e03\u7ae0 \u5de5\u4e1a\u7684\u5de8\u8f6e\r\n\u7b2c\u5341\u516b\u7ae0 \u4e00\u573a\u6c38\u8fdc\u7684\u9769\u547d\r\n\u7b2c\u5341\u4e5d\u7ae0 \u4ece\u6b64\u8fc7\u7740\u5e78\u798f\u5feb\u4e50\u7684\u65e5\u5b50\r\n\u7b2c\u4e8c\u5341\u7ae0 \u667a\u4eba\u672b\u65e5\r\n\u540e\u8bb0 \u53d8\u6210\u795e\u7684\u8fd9\u79cd\u52a8\u7269\r\n\u81f4\u8c22\r\n\u5386\u53f2\u5e74\u8868\r\n\u53c2\u8003\u6570\u636e\r\n\r\n4.\u56fe\u4e66\u4fe1\u606f\r\n\u300a\u5c24\u74e6\u5c14\u7b80\u53f2\u4e09\u90e8\u66f2\u300b\r\n\u4f5c\u8005\uff1a[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\r\n\u51fa\u7248\u793e\uff1a\u4e2d\u4fe1\u51fa\u7248\u96c6\u56e2\r\n\u51fa\u7248\u65f6\u95f4\uff1a2018-08-20\r\n", 
+        "price": "122.40", 
+        "ebook": "", 
+        "otherShareSummary": "\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\u4e09\u90e8\u4ee3\u8868\u4f5c\u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u3001\u300a\u672a\u6765\u7b80\u53f2\u300b\u3001\u300a\u4eca\u65e5\u7b80\u53f2\u300b\u3002", 
+        "uptime": "2019-01-14 00:05:52", 
+        "subClass": 0, 
+        "otherData": "", 
+        "drmEpubMd5": "90dd5d63833e977ac207550fcaea406f", 
+        "catalog": "", 
+        "bSpecialPrice": "69.99", 
+        "bookFilename": "", 
+        "originalPrice": "122.40", 
+        "catalogList": [
+            {
+                "text": "\u4eca\u65e5\u7b80\u53f2\uff1a\u4eba\u7c7b\u547d\u8fd0\u5927\u8bae\u9898", 
+                "href": "Text/1_01.xhtml", 
+                "playOrder": 1, 
+                "level": 0
+            }, 
+            {
+                "text": "\u7248\u6743\u4fe1\u606f", 
+                "href": "Text/1_34.xhtml", 
+                "playOrder": 2, 
+                "level": 1
+            }, 
+            {
+                "text": "\u5e8f", 
+                "href": "Text/1_05.xhtml", 
+                "playOrder": 3, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u90e8\u5206 \u79d1\u6280\u98a0\u8986", 
+                "href": "Text/1_06.xhtml", 
+                "playOrder": 4, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c1\u7ae0 \u7406\u60f3\u7684\u5e7b\u706d\uff1a\u4ece\u65e7\u6545\u4e8b\u5230\u65b0\u6545\u4e8b", 
+                "href": "Text/1_07.xhtml", 
+                "playOrder": 5, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c2\u7ae0 \u5c31\u4e1a\uff1a\u7b49\u4f60\u957f\u5927\uff0c\u53ef\u80fd\u6ca1\u6709\u5de5\u4f5c", 
+                "href": "Text/1_08.xhtml", 
+                "playOrder": 6, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c3\u7ae0 \u81ea\u7531\uff1a\u6570\u636e\u9738\u6743\u4e0e\u793e\u4f1a\u516c\u5e73", 
+                "href": "Text/1_09.xhtml", 
+                "playOrder": 7, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c4\u7ae0 \u5e73\u7b49\uff1a\u8c01\u8be5\u62e5\u6709\u6570\u636e", 
+                "href": "Text/1_10.xhtml", 
+                "playOrder": 8, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u90e8\u5206 \u653f\u6cbb\u6311\u6218", 
+                "href": "Text/1_11.xhtml", 
+                "playOrder": 9, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c5\u7ae0 \u793e\u7fa4\uff1a\u4eba\u7c7b\u8eab\u4f53\u7684\u4ef7\u503c", 
+                "href": "Text/1_12.xhtml", 
+                "playOrder": 10, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c6\u7ae0 \u6587\u660e\uff1a\u4e16\u754c\u7684\u5927\u540c", 
+                "href": "Text/1_13.xhtml", 
+                "playOrder": 11, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c7\u7ae0 \u6c11\u65cf\u4e3b\u4e49\uff1a\u65e0\u6cd5\u89e3\u51b3\u5168\u7403\u6027\u95ee\u9898", 
+                "href": "Text/1_14.xhtml", 
+                "playOrder": 12, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c8\u7ae0 \u5b97\u6559\uff1a\u795e\u7947\u53ea\u662f\u4e3a\u56fd\u5bb6\u670d\u52a1", 
+                "href": "Text/1_15.xhtml", 
+                "playOrder": 13, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c9\u7ae0 \u6587\u5316\u8ba4\u540c\uff1a\u5f00\u653e\u4e0e\u5bbd\u5bb9", 
+                "href": "Text/1_16.xhtml", 
+                "playOrder": 14, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u90e8\u5206 \u7edd\u671b\u4e0e\u5e0c\u671b", 
+                "href": "Text/1_17.xhtml", 
+                "playOrder": 15, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c10\u7ae0 \u6050\u6016\u4e3b\u4e49\uff1a\u5207\u5fcc\u53cd\u5e94\u8fc7\u5ea6", 
+                "href": "Text/1_18.xhtml", 
+                "playOrder": 16, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c11\u7ae0 \u6218\u4e89\uff1a\u6c38\u8fdc\u4e0d\u8981\u4f4e\u4f30\u4eba\u7c7b\u7684\u611a\u8822", 
+                "href": "Text/1_19.xhtml", 
+                "playOrder": 17, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c12\u7ae0 \u8c26\u900a\uff1a\u5730\u7403\u4e0d\u662f\u7ed5\u7740\u4f60\u8f6c", 
+                "href": "Text/1_20.xhtml", 
+                "playOrder": 18, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c13\u7ae0 \u795e\uff1a\u4e0d\u8981\u5984\u79f0\u795e\u7684\u540d", 
+                "href": "Text/1_21.xhtml", 
+                "playOrder": 19, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c14\u7ae0 \u4e16\u4fd7\u4e3b\u4e49\uff1a\u9762\u5bf9\u4f60\u7684\u4e0d\u5b8c\u7f8e", 
+                "href": "Text/1_22.xhtml", 
+                "playOrder": 20, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u56db\u90e8\u5206 \u771f\u76f8", 
+                "href": "Text/1_23.xhtml", 
+                "playOrder": 21, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c15\u7ae0 \u65e0\u77e5\uff1a\u4f60\u77e5\u9053\u7684\u6bd4\u4f60\u60f3\u8c61\u7684\u5c11", 
+                "href": "Text/1_24.xhtml", 
+                "playOrder": 22, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c16\u7ae0 \u6b63\u4e49\uff1a\u4eba\u7c7b\u7684\u9053\u5fb7\u56f0\u5883", 
+                "href": "Text/1_25.xhtml", 
+                "playOrder": 23, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c17\u7ae0 \u540e\u771f\u76f8\u65f6\u4ee3\uff1a\u8c0e\u8a00\u4e07\u4e16\u6c38\u5b58", 
+                "href": "Text/1_26.xhtml", 
+                "playOrder": 24, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c18\u7ae0 \u672a\u6765\u4e0d\u662f\u79d1\u5e7b\u5c0f\u8bf4\uff1a\u65e0\u6cd5\u9003\u79bb\u7684\u6bcd\u4f53", 
+                "href": "Text/1_27.xhtml", 
+                "playOrder": 25, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e94\u90e8\u5206 \u751f\u5b58\u4e0b\u53bb", 
+                "href": "Text/1_28.xhtml", 
+                "playOrder": 26, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c19\u7ae0 \u6559\u80b2\uff1a\u6539\u53d8\u662f\u552f\u4e00\u4e0d\u53d8\u7684\u4e8b", 
+                "href": "Text/1_29.xhtml", 
+                "playOrder": 27, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c20\u7ae0 \u610f\u4e49\uff1a\u4eba\u751f\u4e0d\u662f\u865a\u6784\u7684\u6545\u4e8b", 
+                "href": "Text/1_30.xhtml", 
+                "playOrder": 28, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c21\u7ae0 \u91cd\u65b0\u8ba4\u8bc6\u81ea\u5df1\uff1a\u4eba\u7c7b\u5fc3\u667a\u7684\u5965\u79d8", 
+                "href": "Text/1_31.xhtml", 
+                "playOrder": 29, 
+                "level": 2
+            }, 
+            {
+                "text": "\u81f4\u8c22", 
+                "href": "Text/1_32.xhtml", 
+                "playOrder": 30, 
+                "level": 1
+            }, 
+            {
+                "text": "\u6ce8\u91ca", 
+                "href": "Text/1_33.xhtml", 
+                "playOrder": 31, 
+                "level": 1
+            }, 
+            {
+                "text": "\u672a\u6765\u7b80\u53f2\uff1a\u4ece\u667a\u4eba\u5230\u667a\u795e", 
+                "href": "Text/2_01.xhtml", 
+                "playOrder": 32, 
+                "level": 0
+            }, 
+            {
+                "text": "\u7248\u6743\u4fe1\u606f", 
+                "href": "Text/2_24.xhtml", 
+                "playOrder": 33, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c1\u7ae0 \u4eba\u7c7b\u7684\u65b0\u8bae\u9898", 
+                "href": "Text/2_07.xhtml", 
+                "playOrder": 34, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u90e8\u5206 \u667a\u4eba\u5f81\u670d\u4e16\u754c", 
+                "href": "Text/2_08.xhtml", 
+                "playOrder": 35, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c2\u7ae0 \u4eba\u7c7b\u4e16", 
+                "href": "Text/2_09.xhtml", 
+                "playOrder": 36, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c3\u7ae0 \u4eba\u7c7b\u7684\u7279\u8d28", 
+                "href": "Text/2_10.xhtml", 
+                "playOrder": 37, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u90e8\u5206 \u667a\u4eba\u4e3a\u4e16\u754c\u8d4b\u4e88\u610f\u4e49", 
+                "href": "Text/2_11.xhtml", 
+                "playOrder": 38, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c4\u7ae0 \u865a\u6784\u7684\u529b\u91cf", 
+                "href": "Text/2_12.xhtml", 
+                "playOrder": 39, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c5\u7ae0 \u79d1\u5b66\u4e0e\u5b97\u6559\u4e4b\u4e89", 
+                "href": "Text/2_13.xhtml", 
+                "playOrder": 40, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c6\u7ae0 \u4e0e\u201c\u73b0\u4ee3\u201d\u7684\u5951\u7ea6", 
+                "href": "Text/2_14.xhtml", 
+                "playOrder": 41, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c7\u7ae0 \u4eba\u6587\u4e3b\u4e49\u9769\u547d", 
+                "href": "Text/2_15.xhtml", 
+                "playOrder": 42, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u90e8\u5206 \u667a\u4eba\u5931\u53bb\u63a7\u5236\u6743", 
+                "href": "Text/2_16.xhtml", 
+                "playOrder": 43, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c8\u7ae0 \u5b9e\u9a8c\u5ba4\u91cc\u7684\u5b9a\u65f6\u70b8\u5f39", 
+                "href": "Text/2_17.xhtml", 
+                "playOrder": 44, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c9\u7ae0 \u5927\u5206\u79bb", 
+                "href": "Text/2_18.xhtml", 
+                "playOrder": 45, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c10\u7ae0 \u610f\u8bc6\u7684\u6d77\u6d0b", 
+                "href": "Text/2_19.xhtml", 
+                "playOrder": 46, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c11\u7ae0 \u6570\u636e\u4e3b\u4e49", 
+                "href": "Text/2_20.xhtml", 
+                "playOrder": 47, 
+                "level": 2
+            }, 
+            {
+                "text": "\u56fe\u7247\u6765\u6e90", 
+                "href": "Text/2_21.xhtml", 
+                "playOrder": 48, 
+                "level": 1
+            }, 
+            {
+                "text": "\u81f4\u8c22", 
+                "href": "Text/2_22.xhtml", 
+                "playOrder": 49, 
+                "level": 1
+            }, 
+            {
+                "text": "\u6ce8\u91ca", 
+                "href": "Text/2_23.xhtml", 
+                "playOrder": 50, 
+                "level": 1
+            }, 
+            {
+                "text": "\u4eba\u7c7b\u7b80\u53f2\uff1a\u4ece\u52a8\u7269\u5230\u4e0a\u5e1d", 
+                "href": "Text/3_01.xhtml", 
+                "playOrder": 51, 
+                "level": 0
+            }, 
+            {
+                "text": "\u7248\u6743\u4fe1\u606f", 
+                "href": "Text/3_29.xhtml", 
+                "playOrder": 52, 
+                "level": 1
+            }, 
+            {
+                "text": "\u63a8\u8350\u5e8f", 
+                "href": "Text/3_04.xhtml", 
+                "playOrder": 53, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u90e8\u5206 \u8ba4\u77e5\u9769\u547d", 
+                "href": "Text/3_05.xhtml", 
+                "playOrder": 54, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e00\u7ae0 \u4eba\u7c7b\uff1a\u4e00\u79cd\u4e5f\u6ca1\u4ec0\u4e48\u7279\u522b\u7684\u52a8\u7269", 
+                "href": "Text/3_05.xhtml#sigil_toc_id_1", 
+                "playOrder": 55, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u7ae0 \u77e5\u5584\u6076\u6811", 
+                "href": "Text/3_06.xhtml", 
+                "playOrder": 56, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u7ae0 \u4e9a\u5f53\u548c\u590f\u5a03\u7684\u4e00\u5929", 
+                "href": "Text/3_07.xhtml", 
+                "playOrder": 57, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u56db\u7ae0 \u6bc1\u5929\u706d\u5730\u7684\u4eba\u7c7b\u6d2a\u6c34", 
+                "href": "Text/3_08.xhtml", 
+                "playOrder": 58, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u90e8\u5206 \u519c\u4e1a\u9769\u547d", 
+                "href": "Text/3_09.xhtml", 
+                "playOrder": 59, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e94\u7ae0 \u53f2\u4e0a\u6700\u5927\u9a97\u5c40", 
+                "href": "Text/3_09.xhtml#sigil_toc_id_2", 
+                "playOrder": 60, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u516d\u7ae0 \u76d6\u8d77\u91d1\u5b57\u5854", 
+                "href": "Text/3_10.xhtml", 
+                "playOrder": 61, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e03\u7ae0 \u8bb0\u5fc6\u8fc7\u8f7d", 
+                "href": "Text/3_11.xhtml", 
+                "playOrder": 62, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u516b\u7ae0 \u5386\u53f2\u4ece\u65e0\u6b63\u4e49", 
+                "href": "Text/3_12.xhtml", 
+                "playOrder": 63, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e09\u90e8\u5206 \u4eba\u7c7b\u7684\u878d\u5408\u7edf\u4e00", 
+                "href": "Text/3_13.xhtml", 
+                "playOrder": 64, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u4e5d\u7ae0 \u5386\u53f2\u7684\u65b9\u5411", 
+                "href": "Text/3_13.xhtml#sigil_toc_id_3", 
+                "playOrder": 65, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u7ae0 \u91d1\u94b1\u7684\u5473\u9053", 
+                "href": "Text/3_14.xhtml", 
+                "playOrder": 66, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e00\u7ae0 \u5e1d\u56fd\u7684\u613f\u666f", 
+                "href": "Text/3_15.xhtml", 
+                "playOrder": 67, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e8c\u7ae0 \u5b97\u6559\u7684\u6cd5\u5219", 
+                "href": "Text/3_16.xhtml", 
+                "playOrder": 68, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e09\u7ae0 \u6210\u529f\u7684\u79d8\u5bc6", 
+                "href": "Text/3_17.xhtml", 
+                "playOrder": 69, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u56db\u90e8\u5206 \u79d1\u5b66\u9769\u547d", 
+                "href": "Text/3_18.xhtml", 
+                "playOrder": 70, 
+                "level": 1
+            }, 
+            {
+                "text": "\u7b2c\u5341\u56db\u7ae0 \u53d1\u73b0\u81ea\u5df1\u7684\u65e0\u77e5", 
+                "href": "Text/3_18.xhtml#sigil_toc_id_4", 
+                "playOrder": 71, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e94\u7ae0 \u79d1\u5b66\u4e0e\u5e1d\u56fd\u7684\u8054\u59fb", 
+                "href": "Text/3_19.xhtml", 
+                "playOrder": 72, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u516d\u7ae0 \u8d44\u672c\u4e3b\u4e49\u6559\u6761", 
+                "href": "Text/3_20.xhtml", 
+                "playOrder": 73, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e03\u7ae0 \u5de5\u4e1a\u7684\u5de8\u8f6e", 
+                "href": "Text/3_21.xhtml", 
+                "playOrder": 74, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u516b\u7ae0 \u4e00\u573a\u6c38\u8fdc\u7684\u9769\u547d", 
+                "href": "Text/3_22.xhtml", 
+                "playOrder": 75, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u5341\u4e5d\u7ae0 \u4ece\u6b64\u8fc7\u7740\u5e78\u798f\u5feb\u4e50\u7684\u65e5\u5b50", 
+                "href": "Text/3_23.xhtml", 
+                "playOrder": 76, 
+                "level": 2
+            }, 
+            {
+                "text": "\u7b2c\u4e8c\u5341\u7ae0 \u667a\u4eba\u672b\u65e5", 
+                "href": "Text/3_24.xhtml", 
+                "playOrder": 77, 
+                "level": 2
+            }, 
+            {
+                "text": "\u540e\u8bb0 \u53d8\u6210\u795e\u7684\u8fd9\u79cd\u52a8\u7269", 
+                "href": "Text/3_25.xhtml", 
+                "playOrder": 78, 
+                "level": 1
+            }, 
+            {
+                "text": "\u81f4\u8c22", 
+                "href": "Text/3_26.xhtml", 
+                "playOrder": 79, 
+                "level": 1
+            }, 
+            {
+                "text": "\u5386\u53f2\u5e74\u8868", 
+                "href": "Text/3_27.xhtml", 
+                "playOrder": 80, 
+                "level": 1
+            }, 
+            {
+                "text": "\u53c2\u8003\u6570\u636e", 
+                "href": "Text/3_28.xhtml", 
+                "playOrder": 81, 
+                "level": 1
+            }
+        ], 
+        "otherShareTitle": "", 
+        "readProgress": 0, 
+        "banner": "", 
+        "class": 0, 
+        "epub": "https://igetoss-cdn.igetget.com/ebook/201808/19/201808191212352228594704.igetgetbooks", 
+        "count": 0, 
+        "drmEpubSize": "18266774", 
+        "epubAeskey": "c91276157ef27115", 
+        "bSpecialPriceEtime": 1543075200, 
+        "shortTitle": "", 
+        "logType": "ebook", 
+        "author": "[\u4ee5]\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229", 
+        "cover": "http://piccdn.igetget.com/img/201808/17/201808171743196489228928.jpg", 
+        "publishTime": "2018-08-20", 
+        "bSpecialPriceStime": 1542470400, 
+        "authorInfo": "\u5c24\u74e6\u5c14\u00b7\u8d6b\u62c9\u5229\uff0c\u7545\u9500\u4e66\u300a\u4eba\u7c7b\u7b80\u53f2\u300b\u300a\u672a\u6765\u7b80\u53f2\u300b\u4f5c\u8005\uff0c\u725b\u6d25\u5927\u5b66\u5386\u53f2\u5b66\u535a\u58eb\uff0c\u8036\u8def\u6492\u51b7\u5e0c\u4f2f\u6765\u5927\u5b66\u6559\u6388\uff0c\u5168\u7403\u77a9\u76ee\u7684\u65b0\u9510\u5386\u53f2\u5b66\u5bb6\u3002\u5176\u5173\u6ce8\u7684\u9886\u57df\u6a2a\u8de8\u5386\u53f2\u5b66\u3001\u4eba\u7c7b\u5b66\u3001\u751f\u6001\u5b66\u3001\u57fa\u56e0\u5b66\u7b49\uff0c\u4ed6\u4ece\u5b8f\u89c2\u89d2\u5ea6\u5207\u5165\u7684\u7814\u7a76\u5f80\u5f80\u5f97\u5230\u9887\u5177\u65b0\u610f\u800c\u53c8\u8010\u4eba\u5bfb\u5473\u7684\u89c2\u70b9\uff0c\u5f15\u53d1\u5168\u7403\u5e7f\u6cdb\u5173\u6ce8\u3002", 
+        "sellCount": 0, 
+        "isTtsSwitch": false, 
+        "drmEpub": "https://igetoss-cdn.igetget.com/ebook/201808/19/201808191212352228594704_drm.igetgetbooks", 
+        "pageNum": 0
+    }, 
+    "errCode": 0, 
+    "errMsg": ""
+}
+Mon, 14 Jan 2019 22:39:11 demo14.py[line:78] INFO 结束方法...
+Mon, 14 Jan 2019 22:39:11 demo14.py[line:83] INFO 结束类...
+Mon, 14 Jan 2019 22:39:14 run.py[line:19] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/reports/index.html
+Mon, 14 Jan 2019 22:39:47 demo14.py[line:28] INFO 初始化类...
+Mon, 14 Jan 2019 22:39:47 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:39:48 demo14.py[line:73] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:39:48 demo14.py[line:78] INFO 结束方法...
+Mon, 14 Jan 2019 22:39:48 demo14.py[line:38] INFO 初始化方法...
+Mon, 14 Jan 2019 22:39:48 demo14.py[line:55] INFO 请求接口地址:https://m.igetget.com/hybrid/api/v1/ebook/detail
+Mon, 14 Jan 2019 22:39:48 demo14.py[line:78] INFO 结束方法...
+Mon, 14 Jan 2019 22:39:48 demo14.py[line:83] INFO 结束类...
+Mon, 14 Jan 2019 22:39:51 run.py[line:19] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/reports/index.html
+Mon, 14 Jan 2019 22:44:24 run.py[line:19] INFO 报告地址:/Users/xinxi/PycharmProjects/api_requests/reports/index.html
