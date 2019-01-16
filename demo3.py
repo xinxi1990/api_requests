@@ -13,7 +13,6 @@ sys.setdefaultencoding("utf-8")
 
 class Demo3(unittest.TestCase):
 
-
     def setUp(self):
         '''
         执行顺序:setUp->test->tearDown
@@ -21,8 +20,6 @@ class Demo3(unittest.TestCase):
         :return:
         '''
         print "初始化..."
-
-
 
     def test_book_1(self):
         """
@@ -55,6 +52,14 @@ class Demo3(unittest.TestCase):
         req = json.dumps(r.json(), indent=4)
         print "请求接口地址:" + r.url
         #print "请求接口返回数据:" + req
+
+
+    def test_case(self):
+        '''
+        用例必须以"test"开头
+        :return:
+        '''
+        print "test_case"
 
 
     def tearDown(self):

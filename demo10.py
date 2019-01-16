@@ -41,7 +41,7 @@ class Demo10(unittest.TestCase):
         }
 
 
-    #@unittest.skip("demonstrating skipping")
+    @unittest.skip("demonstrating skipping")
     def test_book_1(self):
         """
         获取电子书列表页数据,使用post方法

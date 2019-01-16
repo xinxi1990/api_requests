@@ -76,8 +76,6 @@ class Demo11(unittest.TestCase):
         如果skipif的条件成立,则跳过这个用例
         :return:
         """
-        print test_book_1_result
-
         # 设置请求头
         r = requests.post(self.url, data=self.payload, headers=self.headers)
         r_json = r.json()
@@ -85,13 +83,13 @@ class Demo11(unittest.TestCase):
         log.info("*****test_book_3请求接口地址******:" + r.url)
 
 
-    @unittest.expectedFailure
-    def test_fail(self):
-        '''
-        当失败的时候,调用这个装饰器
-        :return:
-        '''
-        self.assertEqual(1, 0, "broken")
+    # @unittest.expectedFailure
+    # def test_fail(self):
+    #     '''
+    #     当失败的时候,调用这个装饰器
+    #     :return:
+    #     '''
+    #     self.assertEqual(1, 0, "broken")
 
 
 if __name__ == '__main__':

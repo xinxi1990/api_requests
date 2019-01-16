@@ -45,7 +45,27 @@ class Demo1():
         print "请求接口地址:" + r.url
         print "请求接口返回数据:" + req
 
+    def test_book_form(self):
+        """
+        获取电子书列表页数据,使用post方法
+        :return:
+        """
+        url = "https://m.igetget.com/hybrid/api/v1/ebook/detail"
+        payload = {
+            "bid": 3210,
+            "userInfo": {
+                "uid": "229461915"
+            }
+        }
+        headers = {
+            'Content-Type': "application/x-www-form-urlencoded",
+        }
+        r = requests.post(url, data=payload, headers=headers)
+        req = json.dumps(r.json(), indent=4)
+        print "请求接口地址:" + r.url
+        print "请求接口返回数据:" + req
+
 
 
 if __name__ == '__main__':
-    Demo1().test_book()
+    Demo1().test_book_form()

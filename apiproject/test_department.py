@@ -20,7 +20,7 @@ class Departmen(Base):
         读取本地token
         :return:
         '''
-        super(User, self).setUp()
+        super(Departmen, self).setUp()
         self.department_name = "北京研发中心"
         self.id = 2
 

@@ -85,7 +85,7 @@ class Demo12(unittest.TestCase):
         log.info("****test_book_1测试成功!******")
 
 
-    @file_data(current_path + '/data/demoddt.json')
+    @file_data(current_path + '/datas/demoddt.json')
     def test_book_2(self,value):
         """
         设置多个bid和udid两个参数
@@ -105,7 +105,7 @@ class Demo12(unittest.TestCase):
         log.info("****test_book_1测试成功!******")
 
 
-    @file_data(current_path + '/data/demoddt.yaml')
+    @file_data(current_path + '/datas/demoddt.yaml')
     def test_book_2(self,value):
         """
         设置多个bid和udid两个参数

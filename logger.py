@@ -26,6 +26,6 @@ def get_logger():
                         filemode='a')
     logger = logging.getLogger()
     logger.level = logging.INFO
-    # stream_handler = logging.StreamHandler(sys.stdout)
-    # logger.addHandler(stream_handler)
+    stream_handler = logging.StreamHandler(sys.stdout)
+    logger.addHandler(stream_handler)
     return logger

@@ -48,9 +48,9 @@ class Demo6(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main() # 执行所有测试方法
-    #suite = unittest.TestLoader().loadTestsFromTestCase(Demo6) # 执行类中所有方法
-    #unittest.TextTestRunner(verbosity=2).run(suite)
+    #unittest.main() # 执行所有测试方法
+    suite = unittest.TestLoader().loadTestsFromTestCase(Demo6) # 执行类中所有方法
+    unittest.TextTestRunner(verbosity=2).run(suite)
 
 
 

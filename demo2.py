@@ -32,6 +32,9 @@ class Demo2():
         print "请求接口耗时:{}".format(r.elapsed)
         print "请求接口响应header头:{}".format(r.headers)
         print "请求接口响应cookies:{}".format(r.cookies)
+        print "请求接口响应content:{}".format(r.content)
+        print "请求接口响应raw:{}".format(r.raw)
+        print "请求接口响应text:{}".format(r.text)
 
 
 if __name__ == '__main__':
